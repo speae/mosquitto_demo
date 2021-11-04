@@ -1,0 +1,1 @@
+/usr/bin/cc -rdynamic CMakeFiles/mqtt_pub_demo.dir/mqtt_pub_demo.c.o -o mqtt_pub_demo  -lmosquitto 

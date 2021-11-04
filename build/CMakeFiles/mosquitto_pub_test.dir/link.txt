@@ -1,0 +1,1 @@
+/usr/bin/cc -rdynamic CMakeFiles/mosquitto_pub_test.dir/mosquitto_pub_test.c.o -o mosquitto_pub_test  -lmosquitto 

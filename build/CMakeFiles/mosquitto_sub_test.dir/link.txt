@@ -1,0 +1,1 @@
+/usr/bin/cc -rdynamic CMakeFiles/mosquitto_sub_test.dir/mosquitto_sub_test.c.o -o mosquitto_sub_test  -lpthread -lmosquitto 
